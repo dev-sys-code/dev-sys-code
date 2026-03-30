@@ -2,8 +2,8 @@
 ---
 ## My skills:
 - Python
-- Swift (SwiftUI)
-- Rust (Learning)
+- Swift
+- Rust...
 ---
 ## My socials:
 - Tiktok: [dev.sys](https://www.tiktok.com/@dev.sys)
