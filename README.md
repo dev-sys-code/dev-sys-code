@@ -3,6 +3,7 @@
 ## My skills:
 - Python
 - Swift
+- HTML / CSS
 - Rust...
 ---
 ## My socials:
