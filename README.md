@@ -9,6 +9,6 @@
 - Tiktok: [dev.sys](https://www.tiktok.com/@dev.sys)
 - Discord: [swift](https://discord.com/users/751899627397316758)
 ---
-## If anyone has any suggestions, feel free!
+## If anyone has any suggestions, feel free! :)
   
   
