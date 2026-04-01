@@ -1,10 +1,11 @@
 # Hi there 👋 I'm learning to code! 🔥     01/04/26
 ---
-## My skills:
+## My programming skills:
 - Python
 - Swift
-- HTML / CSS
+- HTML / CSS (Not a programming language, don't flame me)
 - Rust...
+- Js SOON!
 ---
 ## My socials:
 - Tiktok: [dev.sys](https://www.tiktok.com/@dev.sys)
