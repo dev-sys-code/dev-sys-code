@@ -5,7 +5,7 @@
 - Swift
 - HTML / CSS (Not a programming language, don't flame me)
 - Rust...
-- Js SOON!
+- JS SOON!
 ---
 ## My socials:
 - Tiktok: [dev.sys](https://www.tiktok.com/@dev.sys)
