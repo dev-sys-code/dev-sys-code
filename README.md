@@ -1,4 +1,4 @@
-# Hi there 👋 I'm learning to code! 🔥     02/04/26
+# Hi there 👋🔥 02/04/26
 ---
 ## My programming skills:
 - Python
