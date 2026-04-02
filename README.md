@@ -1,6 +1,6 @@
 <div align="center">
   
-## **Hi there 👋**<br><br> My programming skills:
+## **Hi there 👋 03/04/26**<br><br> My programming skills:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
