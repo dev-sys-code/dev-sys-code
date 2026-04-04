@@ -15,6 +15,4 @@
 ## My socials:
 
 [TikTok: dev.sys](https://www.tiktok.com/@dev.sys) &nbsp;&nbsp;&nbsp; [Discord: 1_swift_1](https://discord.com/users/751899627397316758)
-
-## FOLLOW MEEEEE
 </div>
