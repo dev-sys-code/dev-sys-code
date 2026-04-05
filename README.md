@@ -15,5 +15,5 @@
 
 ## My socials:
 
-[TikTok: dev.sys](https://www.tiktok.com/@dev.sys) &nbsp;&nbsp;&nbsp; [Discord: 1_swift_1](https://discord.com/users/751899627397316758)  &nbsp;&nbsp;&nbsp; [Youtube: dev.sys](https://www.youtube.com/@KaydenKing0)
+[TikTok: dev.sys](https://www.tiktok.com/@dev.sys) &nbsp;&nbsp;&nbsp; [Discord: 1_swift_1](https://discord.com/users/751899627397316758)  &nbsp;&nbsp;&nbsp; [YouTube: dev.sys](https://www.youtube.com/@KaydenKing0)
 </div>
