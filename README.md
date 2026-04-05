@@ -11,20 +11,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30"/>
 <img src="https://www.nicepng.com/png/full/308-3084680_rust-programming-language-rust-programming-language-logo.png" height="30"/>
 
----
-
-### My GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sys&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sys&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### My socials:
 <a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="60" align="middle"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/751899627397316758"><img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="30" align="middle"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="60" align="middle"/></a>
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-sys-code&show_icons=true&theme=tokyonight&hide_border=true&show_rank=true&hide=issues,prs" />
+</div>
+
+---
