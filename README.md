@@ -1,6 +1,8 @@
 <div align="center">
 
-## **Hi there 👋 06/04/26**
+## **Hey!**
+
+06/04/26
 
 ### My programming skills:
 <img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30"/>
