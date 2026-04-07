@@ -2,8 +2,6 @@
 
 ## **Hey!** I'm dev-sys, I hope to become a developer some day
 
-07/04/26
-
 ### My programming skills:
 <img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30"/>
 <img src="https://brandlogovector.com/wp-content/uploads/2021/04/Swift-Logo.png" height="30"/>
