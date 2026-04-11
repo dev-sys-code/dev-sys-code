@@ -24,13 +24,6 @@
 
 <a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" align="middle"/></a>  <a href="https://discord.com/users/751899627397316758"><img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="23" align="middle"/></a>  <a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" align="middle"/></a>
 
-
-
----
-### Goals:
-I'm aiming to become a full-stack developer!
-
----
 </div>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-sys-code&show_icons=true&theme=tokyonight&hide_border=true&show_rank=true&hide=issues,prs" />
