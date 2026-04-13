@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Hey!** I'm dev-sys
+## **Hey!**
 13/04/26
 
 ### My programming / markup skills:
