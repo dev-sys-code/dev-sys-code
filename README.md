@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hello 🔥👋
+## Hello 🔥
 17/04/26
 
 ### My programming / markup skills ->
