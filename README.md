@@ -1,7 +1,10 @@
 <div align="center">
-  
-## Hello 🔥
-###  < My programming / markup skills >
+
+# dev.sys
+
+---
+
+### My Programming & Markup Skills
 
 <img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30"/>
 &nbsp;
@@ -11,7 +14,7 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30"/>
 
-###  < Currently Learning >
+### Currently Learning
 
 <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height="30">
 &nbsp;
@@ -19,13 +22,21 @@
 &nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-sql-database-icon.png" height="30"/>
 
-###  < My socials [Follows would be appreciated] >
-<a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" align="middle"/></a>  <a href="https://discord.com/users/751899627397316758"><img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="23" align="middle"/></a>  <a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" align="middle"/></a>
+---
 
+### Socials
+*Follows are appreciated!*
 
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
-</div>
+<a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" align="middle"/></a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/751899627397316758"><img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="23" align="middle"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" align="middle"/></a>
 
 ---
+
+### GitHub Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
+
+</div>
