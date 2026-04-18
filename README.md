@@ -1,8 +1,6 @@
 <div align="center">
   
 ## Hello 🔥
-18/04/26
-
 ###  < My programming / markup skills >
 
 <img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30"/>
@@ -27,10 +25,7 @@
 
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-sys-code&show_icons=true&theme=tokyonight&hide_border=true&show_rank=true&hide=issues,prs" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 </div>
 
 ---
