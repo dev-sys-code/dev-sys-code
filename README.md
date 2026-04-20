@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey! I'm dev.sys!
+## dev-sys
 
 ---
 
