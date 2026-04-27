@@ -43,6 +43,7 @@
 ### Current mini-project
 
 <img src="https://github.com/user-attachments/assets/9ee841f8-e72c-4272-89de-e63cacdce73d" height="350" />
+
 ---
 
 </div>
