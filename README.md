@@ -34,7 +34,7 @@
 ---
 
 ### GitHub Activity
-*Not currently working
+*Not currently working*
 
 ---
 
