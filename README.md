@@ -35,6 +35,7 @@
 
 ### GitHub Activity
 *Not currently working*
+<img src="https://github-readme-stats.vercel.app/api?username=dev-sys&show_icons=true&theme=radical&hide_border=true" />
 
 ---
 
