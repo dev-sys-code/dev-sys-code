@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30"/>
 
 ### Currently Learning
-
+*SQL is soon*
 <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height="30">
 &nbsp;
 <img src="https://www.nicepng.com/png/full/308-3084680_rust-programming-language-rust-programming-language-logo.png" height="30"/>
