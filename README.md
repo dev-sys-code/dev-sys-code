@@ -4,7 +4,7 @@
 
 ### My Programming & Markup Skills
 
-<img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30" alt="Python"/>
+<img src="https://th.bing.com/th/id/R.f7a483ddf1a71154bfc8eee6eb20ec02?rik=7LyFDP2oEuf37w&pid=ImgRaw&r=0" height="30" alt="Python"/>
 &nbsp;
 <img src="https://brandlogovector.com/wp-content/uploads/2021/04/Swift-Logo.png" height="30"/>
 &nbsp;
