@@ -29,6 +29,8 @@
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" align="middle"/></a>
 
+---
+
 ### Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
