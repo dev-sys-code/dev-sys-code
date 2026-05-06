@@ -33,7 +33,7 @@
 ---
 
 ### Stats
-*Currently not working*
+<!-- *Currently not working* !-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 
