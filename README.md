@@ -18,7 +18,6 @@
 <img src="https://www.nicepng.com/png/full/308-3084680_rust-programming-language-rust-programming-language-logo.png" height="30"/>
 &nbsp;
 <!-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-sql-database-icon.png" height="30"/> -->
-
 ---
 
 ### Socials
