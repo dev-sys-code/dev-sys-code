@@ -12,11 +12,10 @@
 
 
 ### Currently Learning
-<!-- *SQL Soon!* -->
-
+*SQL Soon!*
 <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height="30">
 &nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-sql-database-icon.png" height="30"/>
+<img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" height="30"/>
 
 ---
 
