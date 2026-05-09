@@ -12,8 +12,6 @@
 </pre>
 
 ### My Programming & Markup Skills
-...
-### My Programming & Markup Skills
 
 <img src="https://th.bing.com/th/id/R.f7a483ddf1a71154bfc8eee6eb20ec02?rik=7LyFDP2oEuf37w&pid=ImgRaw&r=0" height="30" alt="Python"/>
 &nbsp;
