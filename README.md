@@ -37,6 +37,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 
+<!--
 ---
 
 ### Pinned repositories
@@ -49,5 +50,5 @@
 <a href="https://github.com/dev-sys-code/C">
 <img src="https://private-user-images.githubusercontent.com/142793020/589807381-11943cbd-0820-498b-859c-8ca465a36524.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyNzUzNDIsIm5iZiI6MTc3ODI3NTA0MiwicGF0aCI6Ii8xNDI3OTMwMjAvNTg5ODA3MzgxLTExOTQzY2JkLTA4MjAtNDk4Yi04NTljLThjYTQ2NWEzNjUyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOFQyMTE3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOTQ3YjAxZjAzMGExZTYzOWUzZjJkNTNjMTU2Mzc4NmQ1OGI5Mjc5OWNlNTE5NmNhZjM2NGQ1OWQ5OGE3ZDU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.7XcxTzXAt4D5WQEUFI1-Ur7AmiUaMAFW65Sq4fsqWp0" height="350" />
 </a>
-
+-->
 </div>
