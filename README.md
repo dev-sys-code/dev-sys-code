@@ -1,6 +1,4 @@
-<div align="center">
-
-<div align="center">
+<div align="center">the 
 
 <pre style="display: inline-block; text-align: left;">
  _____________________________________________________________________
