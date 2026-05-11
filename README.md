@@ -36,7 +36,7 @@
 ---
 
 ### Socials
-*Follows are appreciated! :)* 
+*Follows are appreciated!* 
 
 <a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" align="middle"/></a>
 &nbsp;&nbsp;
