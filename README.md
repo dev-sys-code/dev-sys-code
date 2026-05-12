@@ -1,66 +1,51 @@
 <div align="center">
 
 <pre style="display: inline-block; text-align: left;">
- 
  _____________________________________________________________________
 /                                                                     \
 |      _____    ______  __     __              ____  __    __  _____  |
 |     /  __ \  /  ____/ \ \   / /    ______   / ___/ \ \  / / / ___/  |
 |    /  / / / /  /___    \ \ / /   /______/   \___ \  \ \/ /  \___ \  |
 |   /  /_/ / /  ____/     \   /                ___/ /  \  /   ___/ /  |
-|  /______/ /______/       \_/                /____/   /_/   /____/   |
+|  /______/ /______/       \_/                /____/    /_/   /____/  |
 |                                                                     |
 \_____________________________________________________________________/
- 
 </pre>
 
-### My Programming & Markup Skills
+### 🛠️ Programming & Markup Skills
 <div align="center">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
 </div>
 
-### Currently Learning
-*SQL Soon!*
-
-<img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height="30">
-&nbsp;
-<img src="https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png" height="30">
-<!-- <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" height="30"/> -->
+### 📚 Currently Learning
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
+</div>
 
 ---
 
-### Socials
-*Follows are appreciated!* 
+### 🌐 Socials
+*Follows are appreciated!* <br />
 
-<a href="https://www.tiktok.com/@dev.sys"><img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" align="middle"/></a>
+<p align="center">
+<a href="https://www.tiktok.com/@dev.sys" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" style="text-decoration: none;" />
+</a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/751899627397316758"><img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="23" align="middle"/></a>
+<a href="https://discord.com/users/751899627397316758" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="text-decoration: none;" />
+</a>
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/@KaydenKing0"><img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" align="middle"/></a>
+<a href="https://www.youtube.com/@KaydenKing0" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="text-decoration: none;" />
+</a>
+</p>
+
+<br />
 
 ---
 
-### Stats
-<!-- *Currently not working* !-->
-
+### 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
-
-<!--
----
-
-### Pinned repositories
-
-<a href="https://github.com/dev-sys-code/HTML-CSS-JS">
-<img src="https://private-user-images.githubusercontent.com/142793020/589807176-8a2abb3f-ca3b-4888-b596-f9ffbed47f6e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyNzUzOTUsIm5iZiI6MTc3ODI3NTA5NSwicGF0aCI6Ii8xNDI3OTMwMjAvNTg5ODA3MTc2LThhMmFiYjNmLWNhM2ItNDg4OC1iNTk2LWY5ZmZiZWQ0N2Y2ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOFQyMTE4MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYzMzYjdjYTdmMjVhOTkxN2M3MzRkODE4OGNmMjhkYzI4Yzk1YjA5OTVhMTA4Y2NhMmVmOTc3MTVhYWRiYTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.vOjRadrBzr2_of4VaiAUo61sYFRayufOmxbugLJWQN0" height="350" />
-</a>
-
-
-<a href="https://github.com/dev-sys-code/C">
-<img src="https://private-user-images.githubusercontent.com/142793020/589807381-11943cbd-0820-498b-859c-8ca465a36524.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyNzUzNDIsIm5iZiI6MTc3ODI3NTA0MiwicGF0aCI6Ii8xNDI3OTMwMjAvNTg5ODA3MzgxLTExOTQzY2JkLTA4MjAtNDk4Yi04NTljLThjYTQ2NWEzNjUyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOFQyMTE3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOTQ3YjAxZjAzMGExZTYzOWUzZjJkNTNjMTU2Mzc4NmQ1OGI5Mjc5OWNlNTE5NmNhZjM2NGQ1OWQ5OGE3ZDU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.7XcxTzXAt4D5WQEUFI1-Ur7AmiUaMAFW65Sq4fsqWp0" height="350" />
-</a>
--->
 
 </div>
