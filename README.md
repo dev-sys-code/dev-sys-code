@@ -15,15 +15,12 @@
 </pre>
 
 ### My Programming & Markup Skills
+<div align="center">
 
-<img src="https://th.bing.com/th/id/R.f7a483ddf1a71154bfc8eee6eb20ec02?rik=7LyFDP2oEuf37w&pid=ImgRaw&r=0" height="30" alt="Python"/>
-&nbsp;
-<img src="https://brandlogovector.com/wp-content/uploads/2021/04/Swift-Logo.png" height="30"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 25px; border-radius: 5px;" />
 
+</div>
 
 ### Currently Learning
 *SQL Soon!*
