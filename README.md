@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <pre style="display: inline-block; text-align: left;">
  
  _____________________________________________________________________
