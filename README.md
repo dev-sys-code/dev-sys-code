@@ -24,7 +24,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
 </div>
 
+
 ---
+
 
 ### Socials
 *Follows are appreciated!* <br /><br />
