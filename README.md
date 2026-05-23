@@ -28,7 +28,7 @@
 ---
 
 ### Socials
-*Follows are appreciated! 🔥* <br /><br />
+*Follows are appreciated! *🔥 <br /><br />
 
 <p align="center">
 <a href="https://www.tiktok.com/@dev.sys"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>&nbsp;&nbsp;
