@@ -18,7 +18,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
 </div>
 
-
 ### Currently Learning
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
