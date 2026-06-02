@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="padding: 20px;" />
 
 ### Currently Learning
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" /><!--&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;-->
 
 ---
 
