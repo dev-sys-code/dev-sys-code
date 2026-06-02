@@ -13,8 +13,8 @@
  
 </pre>
 
-### Programming
-<div align="center">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
+### Programming Skills
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
 </div>
 
 ### Markup Skills
