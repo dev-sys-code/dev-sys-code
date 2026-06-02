@@ -7,23 +7,20 @@
 |     /  __ \  /  ____/ \ \   / /    ______   / ___/ \ \  / / / ___/  |
 |    /  / / / /  /___    \ \ / /   /______/   \___ \  \ \/ /  \___ \  |
 |   /  /_/ / /  ____/     \   /                ___/ /  \  /   ___/ /  |
-|  /______/ /______/       \_/                /____/   /_/   /____/   |
+|  /______/ /______/       \_/                /____/    /_/   /____/  |
 |                                                                     |
 \_____________________________________________________________________/
  
 </pre>
 
 ### Programming Skills
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
-</div>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="padding: 20px;" />
 
 ### Markup Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="padding: 20px;" />
 
 ### Currently Learning
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="background-color: #1c2128; padding: 20px; border-radius: 5px;" />
-</div>
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -42,11 +39,5 @@
 
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
-
-<!-- ---
-### Pinned repos
-<a href=https://github.com/dev-sys-code/lua><img width="488" height="120" alt="image" src="https://github.com/user-attachments/assets/77cbe212-8250-40e3-a26f-52b739c9affa" />
-</a> -->
-
 
 </div>
