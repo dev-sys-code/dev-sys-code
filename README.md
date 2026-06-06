@@ -20,9 +20,7 @@
 &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="padding: 20px;" />
 
 ### Currently Learning
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" /><!--&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;-->
-
----
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" />---
 
 ### Socials
 *Follows are appreciated!* 🔥 <br /><br />
@@ -39,5 +37,7 @@
 
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
+<br />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-sys-code&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
