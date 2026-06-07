@@ -41,7 +41,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 <br />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-sys-code&layout=compact&bg_color=00000000&hide_border=true" />
-<br />
-<img src="https://komarev.com/ghpvc/?username=dev-sys-code&color=000000&style=flat-square&label=VISITORS" />
 
 </div>
