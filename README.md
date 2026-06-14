@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre style="display: inline-block; text-align: left;">
+<!-- <pre style="display: inline-block; text-align: left;">
  _____________________________________________________________________
 /                                                                     \
 |      _____    ______  __     __              ____  __    __  _____  |
@@ -11,18 +11,44 @@
 |                                                                     |
 \_____________________________________________________________________/
  
-</pre>
+</pre> -->
 
-### Programming Skills
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" style="padding: 20px;" />
-
-### Markup Skills
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" style="padding: 20px;" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="padding: 20px;" />
-
-<!--&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" height="30" style="padding: 20px;" />-->
-
-### Currently Learning
-&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" style="padding: 20px;" />
+<br>
+<div align="center">
+<table align="center">
+  <!-- Tech Stack Row -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Node.js" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+  <!-- Operating Systems Row -->
+  <tr>
+    <td align="center" colspan="2" width="200">
+      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
+      <br>MacOS
+    </td>  
+    <td align="center" colspan="2" width="200">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>    
+  </tr>
+</table>
+</div>
+<br>
 
 ---
 
