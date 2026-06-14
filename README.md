@@ -1,11 +1,14 @@
 <div align="center">
-<pre style="display: inline-block; text-align: left;">
+<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; background: transparent;"><pre style="font-family: monospace; line-height: 1.2; background: transparent; border: none; padding: 0; margin: 0; color: inherit;">
       _____    ______  __     __              ____  __    __  _____  
      /  __ \  /  ____/ \ \   / /    ______   / ___/ \ \  / / / ___/ 
     /  / / / /  /___    \ \ / /   /______/   \___  \ \ \/ /  \__  \  
    /  /_/ / /  ____/     \   /                ___/ /  \  /   ___/ /  
-  /______/ /______/       \_/                /____/   /_/   /____/   
-</pre>
+  /______/ /______/       \_/                /____/   /_/   /____/   </pre></td>
+  </tr>
+</table>
  
 ### Tech Stack
 
