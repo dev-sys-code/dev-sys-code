@@ -15,7 +15,6 @@
 
 <div align="center">
 <table align="center">
-  <!-- Tech Stack Row -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -34,14 +33,13 @@
       <br>Python
     </td>
   </tr>
-  <!-- Operating Systems Row -->
   <tr>
-    <td align="center" colspan="2" width="200">
-      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
+    <td align="center" colspan="2" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48"/>
       <br>MacOS
     </td>  
     <td align="center" colspan="2" width="200">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48"/>
       <br>Windows
     </td>    
   </tr>
