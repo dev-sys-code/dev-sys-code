@@ -13,34 +13,38 @@
 ### Tech Stack
 
 <div align="center">
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="100">
+    <td align="center" colspan="3" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="100">
+    <td align="center" colspan="3" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Node.js" />
+    <td align="center" colspan="3" width="120" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="100">
+    <td align="center" colspan="3" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48"/>
+    <td align="center" colspan="4" width="160" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS"/>
       <br>MacOS
     </td>  
-    <td align="center" colspan="2" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48"/>
+    <td align="center" colspan="4" width="160" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
+      <br>Lua
+    </td>   
+    <td align="center" colspan="4" width="160" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows"/>
       <br>Windows
-    </td>    
+    </td>     
   </tr>
 </table>
 </div>
