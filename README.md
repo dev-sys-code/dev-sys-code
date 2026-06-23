@@ -10,7 +10,6 @@
   </tr>
 </table>
 
-
 ### Tech Stack
 
 
