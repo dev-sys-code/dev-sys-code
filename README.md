@@ -10,8 +10,8 @@
   </tr>
 </table>
 
-
 ### Tech Stack
+
 
 <div align="center">
 <table align="center" style="border-collapse: collapse;">
