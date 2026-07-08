@@ -1,5 +1,5 @@
 <div align="center">
-<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+<!-- <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td style="border: none; background: transparent;"><pre style="font-family: monospace; line-height: 1.2; background: transparent; border: none; padding: 0; margin: 0; color: inherit;">
       _____    ______  __     __              ____  __    __  _____  
@@ -8,7 +8,7 @@
    /  /_/ / /  ____/     \   /                ___/ /  \  /   ___/ /  
   /______/ /______/       \_/                /____/   /_/   /____/   </pre></td>
   </tr>
-</table>
+</table> -->
 
 ### Tech Stack
 
