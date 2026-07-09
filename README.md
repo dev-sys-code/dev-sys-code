@@ -10,50 +10,60 @@
   </tr>
 </table> -->
 
+<div align="center">
+
 ### Tech Stack
 
-<div align="center">
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" colspan="3" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" colspan="3" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
-    <td align="center" colspan="3" width="120" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" colspan="3" width="120" style="padding: 10px;">
+  </tr>
+  <tr>
+    <td align="center" width="120" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
+      <br>Lua
+    </td>
   </tr>
+</table>
+
+<br>
+
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" colspan="4" width="160" style="padding: 10px;">
+    <td align="center" width="160" style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS"/>
       <br>MacOS
     </td>  
-    <td align="center" colspan="4" width="160" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
-      <br>Lua
-    </td>   
-    <td align="center" colspan="4" width="160" style="padding: 10px;">
+    <td align="center" width="160" style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows"/>
       <br>Windows
-    </td>     
+    </td>   
   </tr>
 </table>
-</div>
-<br>
 
 ---
 
 ### Socials
-*Follows are appreciated!* 🔥 <br /><br />
+Follows are appreciated! 🔥 <br /><br />
 
 <p align="center">
 <a href="https://www.tiktok.com/@dev.sys"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>&nbsp;&nbsp;
@@ -68,5 +78,4 @@
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 <br />
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-sys-code&layout=compact&bg_color=00000000&hide_border=true" /> -->
 </div>
