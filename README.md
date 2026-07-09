@@ -47,8 +47,6 @@
 
 *C++ Soon!*
 
-<br>
-
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="160" style="padding: 10px;">
