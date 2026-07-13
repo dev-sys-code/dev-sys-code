@@ -17,8 +17,9 @@
 
 ### Repositories
 
-[HTML-CSS-JS](https://github.com/dev-sys-code/HTML-CSS-JS)
-[C++](https://github.com/dev-sys-code/cpp)
+[`HTML-CSS-JS`](https://github.com/dev-sys-code/HTML-CSS-JS)
+[`C++`](https://github.com/dev-sys-code/cpp)
+[`Lua`](https://github.com/dev-sys-code/lua)
 
 ---
 
