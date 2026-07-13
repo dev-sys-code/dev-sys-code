@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi there! 👋
 
@@ -10,13 +10,15 @@
 
 **Currently learning:** C++ 🚀
 
----
-
 ### Environment
 
-<div align="center" style="line-height: 0;">
-  <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
-</div>
+<img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
+
+
+### Repositories
+
+[Project Name Here](https://github.com/dev-sys-code/REPO-NAME)
+[Project Name Here](https://github.com/dev-sys-code/REPO-NAME)
 
 ---
 
@@ -36,4 +38,3 @@
 
 **Check out my progress:** [C++ Repository](https://github.com/dev-sys-code/CPP)
 
-</div>
