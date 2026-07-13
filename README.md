@@ -15,8 +15,7 @@
 ### Environment
 
 <div align="center" style="line-height: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS"/>
-  <img src="https://skillicons.dev/icons?i=windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
 </div>
 
 ---
