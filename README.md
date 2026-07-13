@@ -17,8 +17,8 @@
 
 ### Repositories
 
-[Project Name Here](https://github.com/dev-sys-code/REPO-NAME)
-[Project Name Here](https://github.com/dev-sys-code/REPO-NAME)
+[HTML-CSS-JS](https://github.com/dev-sys-code/HTML-CSS-JS)
+[C++](https://github.com/dev-sys-code/cpp)
 
 ---
 
@@ -35,6 +35,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true" />
 
 <br>
-
-**Check out my progress:** [C++ Repository](https://github.com/dev-sys-code/CPP)
-
