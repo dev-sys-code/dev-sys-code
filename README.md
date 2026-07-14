@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwindcss,lua" />
 </a>
 
-**Currently learning:** C++
+**Currently learning:** C++ (specifically raylib)
 
 ### Environment
 
