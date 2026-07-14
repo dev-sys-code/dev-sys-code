@@ -1,5 +1,5 @@
 # Hi there! 👋 
-15 year old tryna become a developer
+15yr old tryna become a developer
 
 ### Tech Stack
 
