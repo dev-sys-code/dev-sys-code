@@ -13,6 +13,7 @@
 <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
 
 ### Repositories
+(no projects yet, these repos were for learning)
 
 - [`HTML-CSS-JS`](https://github.com/dev-sys-code/HTML-CSS-JS)
 - [`C++`](https://github.com/dev-sys-code/cpp)
