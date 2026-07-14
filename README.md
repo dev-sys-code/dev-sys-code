@@ -6,14 +6,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwindcss,lua" />
 </a>
 
-**Currently learning:** C++ (specifically raylib)
+**Currently learning:** C++ *(specifically raylib)*
 
 ### Environment
 
 <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
 
 ### Repositories
-(no projects yet, these repos were for learning)
+*(no projects yet, these repos were for learning)*
 
 - [`HTML-CSS-JS`](https://github.com/dev-sys-code/HTML-CSS-JS)
 - [`C++`](https://github.com/dev-sys-code/cpp)
