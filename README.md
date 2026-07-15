@@ -1,5 +1,4 @@
 # Hi there! 👋 
-15yr old tryna become a developer
 
 ### Tech Stack
 
