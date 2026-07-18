@@ -35,7 +35,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sys-code&bg_color=00000000&hide_border=true&line=007aff&point=007aff&color=ffffff&hide_title=true" width="400" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent" width="400" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dev-sys-code&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dev-sys-code&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
 
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=dev-sys-code&theme=transparent&no-frame=true" width="400" />
