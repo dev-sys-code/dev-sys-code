@@ -30,8 +30,6 @@
 
 ---
 
-### Stats
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sys-code&bg_color=00000000&hide_border=true&line=007aff&point=007aff&color=ffffff&hide_title=true"/>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent"/> -->
