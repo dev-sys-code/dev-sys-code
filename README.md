@@ -1,10 +1,7 @@
 # Hi there! 👋 
 
-<div>
-  
-
-  ### Tech Stack **Currently learning:** C++
-
+<div style="display: flex; align-items: center; gap: 15px;">
+  <h3>Tech Stack:</h3>
 </div>
 
 <a href="https://skillicons.dev">
