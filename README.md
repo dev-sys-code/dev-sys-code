@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-### Tech Stack **Currently learning:** C++
+### Tech Stack \**Currently learning:** C++
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwindcss,lua" />
