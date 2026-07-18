@@ -1,8 +1,11 @@
 # Hi there! 👋 
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <h3>Tech Stack:</h3>
-</div>
+### Tech Stack: <small>Currently learning: **C++**</small>
+
+<p>
+  <strong>Tech Stack:</strong> Currently learning: C++<br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwindcss,lua" width="200" />
+</p>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwindcss,lua" />
