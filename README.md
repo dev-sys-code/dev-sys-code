@@ -1,5 +1,5 @@
 # Hi there! 👋 
-![Profile view header](https://komarev.com/ghpvc/?username=Plextora)
+![Profile view header](https://komarev.com/ghpvc/?username=dev-sys-code)
 ### Tech Stack:
 
 (*Currently learning: **C++***)
