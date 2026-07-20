@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  ![](https://komarev.com/ghpvc/?username=dev-sys-code&color=grey)  
+ ![](https://komarev.com/ghpvc/?username=dev-sys-code&color=red&style=flat-square&abbreviated=true)
   
 </div>
 
