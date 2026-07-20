@@ -1,5 +1,5 @@
 # Hi there! 👋 
-![Profile view header](https://komarev.com/ghpvc/?username=dev-sys-code)
+![](https://komarev.com/ghpvc/?username=dev-sys-code&color=grey)
 ### Tech Stack:
 
 (*Currently learning: **C++***)
