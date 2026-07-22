@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
 
 ### Repositories
-- [`MD -> HTML`](https://github.com/dev-sys-code/markdown-to-html) // Converts markdown files to html files (cli), first c++ project
+- [`MD -> HTML`](https://github.com/dev-sys-code/markdown-to-html) | Converts markdown files to html files (cli), first c++ project
 - [`C++`](https://github.com/dev-sys-code/cpp)
 
 ---
