@@ -21,7 +21,6 @@
 
 ### Repositories
 - [`MD -> HTML`](https://github.com/dev-sys-code/markdown-to-html) // First project ig
-- [`HTML-CSS-JS`](https://github.com/dev-sys-code/HTML-CSS-JS)
 - [`C++`](https://github.com/dev-sys-code/cpp)
 
 ---
