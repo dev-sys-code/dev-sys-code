@@ -6,18 +6,20 @@
   
 </div>
 
-
 ### Tech Stack:
 
-(*Currently learning: **C++***)
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python,cpp" />
 </a>
 
 ### Environment
 
 <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
+
+### Currently learning: 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
 
 ### Repositories
 - [`MD -> HTML`](https://github.com/dev-sys-code/markdown-to-html) | Converts markdown files to html files (CLI), first c++ project
