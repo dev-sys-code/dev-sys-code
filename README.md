@@ -22,7 +22,7 @@
 </a>
 
 ### Repositories
-- [`MD -> HTML`](https://github.com/dev-sys-code/markdown-to-html) | Converts markdown files to html files (CLI), first c++ project
+- [`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html) | Converts markdown files to html files (CLI), first c++ project
 - [`C++`](https://github.com/dev-sys-code/cpp)
 
 ---
