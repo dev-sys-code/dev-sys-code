@@ -1,8 +1,10 @@
 # Hi there! 👋 
-    
-    Hey! I'm trying to get into OS development.
-    Low level programming has always been interesting
-    to me. Mostly learning C++ and soon assembly 🔥
+      
+<div align="center">
+  <pre><code>Hey! I'm trying to get into OS development.
+Low level programming has always been interesting
+to me. Mostly learning C++ and soon assembly 🔥</code></pre>
+</div>
 
 <div align=center>
   
