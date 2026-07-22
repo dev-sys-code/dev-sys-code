@@ -22,7 +22,7 @@
 </a>
 
 ### Repositories
-- [`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html)<!-- | Converts markdown files to html files (CLI), first c++ project -->
+- [`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html)
 - [`C++`](https://github.com/dev-sys-code/cpp)
 
 ---
@@ -41,6 +41,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sys-code&theme=transparent&hide_border=true"/>
-  <!-- <br><br> -->
-  <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dev-sys-code&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> -->
 </div>
