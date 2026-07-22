@@ -1,4 +1,8 @@
 # Hi there! 👋 
+    
+    Hey! I'm trying to get into OS development.<br>
+    Low level programming has always been interesting<br>
+    to me. Mostly learning C++ and soon assembly 🔥
 
 <div align=center>
   
