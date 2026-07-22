@@ -9,7 +9,7 @@
 ### Tech Stack:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python" />
 </a>
 
 ### Environment
