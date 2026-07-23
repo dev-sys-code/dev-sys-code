@@ -7,6 +7,8 @@ Hey! I'm trying to get into OS development
 or game development / QoL modding. Low level
 programming has always been interesting to
 me. Mostly learning C++ and soon assembly 
+
+Currently working on: Pong (C++ | Raylib)
     </code>
   </pre>
 </div>
