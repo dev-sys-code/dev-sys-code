@@ -13,8 +13,9 @@ Currently working on: Pong (C++ | Raylib)
   </pre>
 </div>
 
-<img width="370" height="192" alt="image" src="https://github.com/user-attachments/assets/0d9acf71-a6c2-4258-b536-afc1fabb757b" />
-
+<div align="center">
+      <img width="370" height="192" alt="image" src="https://github.com/user-attachments/assets/0d9acf71-a6c2-4258-b536-afc1fabb757b" />
+</div>
 
 <div align=center>
   
