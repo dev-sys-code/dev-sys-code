@@ -8,7 +8,7 @@ or game development / QoL modding. Low level
 programming has always been interesting to
 me. Mostly learning C++ and soon assembly 
 ----------------------------------------
-Currently working on: Low level
+Currently working on: Making cheat sheet for C++
     </code>
   </pre>
 </div>
