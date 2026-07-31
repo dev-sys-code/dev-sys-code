@@ -37,7 +37,7 @@ Currently working on: Making cheat sheet for C++
 ### Repositories
 - [`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html)
 - [`C++`](https://github.com/dev-sys-code/cpp)
-- ['Currency Converter`](https://github.com/dev-sys-code/Currency-converter)
+- ['Currency Converter`](https://github.com/swft-dev/Currency-Converter)
 
 ---
 
