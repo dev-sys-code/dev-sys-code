@@ -8,7 +8,7 @@ or game development / QoL modding. Low level
 programming has always been interesting to
 me. Mostly learning C++ and soon assembly 
 ---------------------------------------------------
-Currently working on: Random raylib projects
+Currently working on: Bank(C++)
     </code>
   </pre>
 </div>
