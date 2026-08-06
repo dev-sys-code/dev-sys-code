@@ -31,14 +31,6 @@
 
 ---
 
-### Socials
-
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@dev.sys)&nbsp;&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/751899627397316758)&nbsp;&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@KaydenKing0)&nbsp;&nbsp;&nbsp;
-
----
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swft-dev&bg_color=00000000&hide_border=true&line=007aff&point=007aff&color=ffffff&hide_title=true"/>
 
 ---
