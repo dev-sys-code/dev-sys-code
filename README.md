@@ -1,5 +1,3 @@
-<!--Hey! I'm trying to get into OS development or game development / QoL modding. Low level programming has always been interesting to me. Mostly learning C++ and soon assembly  Currently working on: Bank (C++)-->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B&loop=false&delete=false" alt="Hi there! 👋" />
 </div>
