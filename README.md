@@ -10,7 +10,7 @@
   
 </div>
 
-### Tech Stack:
+### Tech Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python" />
@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
 
-### Currently learning: 
+### Currently learning
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
