@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=10000000000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hello!+%F0%9F%91%8B&loop=false&delete=false" alt="Hello! 👋" />
 </div>
 
-#\\ on holiday so low contributions
+#
+##on holiday so low contributions
 
 <div align=center>
   
